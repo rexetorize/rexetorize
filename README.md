@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhirup</h1>
-<h3 align="center">A Full Stack Web Developer and a Game Developer by hobby!</h3>
+<h3 align="center">A Full Stack Web Developer and an Environment Artist in UE5 by hobby!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexetorize&label=Profile%20views&color=0e75b6&style=flat" alt="rexetorize" /> </p>
 
-- 🔭 I’m currently working on **A small indie game in Unity.**
+- 🔭 I’m currently working on **CNNs in MATLAB**
 
-- 🌱 I’m currently learning **Unity Game Engine, OpenGL, and game development in general!**
+- 🌱 I’m currently learning **Unreal Engine 5, Deeplearning in MATLAB(very noob rn), and C++!**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Dev. projects!**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dasabhirup1956@gmail.com**
 
-- ⚡ Fun fact **I started my coding journey watching sentdex, looking at those cool AI progs. doing cool stuff. Then I don't know how I moved to web dev and became a full stack dev. and now here I am learning Game Development.**
+- ⚡ Fun fact **I started my coding journey watching sentdex, looking at those cool AI progs. doing cool stuff. Then I don't know how I moved to web dev and became a full stack dev. and now here I am learning Environment design lol.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
