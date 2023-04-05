@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexetorize&label=Profile%20views&color=0e75b6&style=flat" alt="rexetorize" /> </p>
 
-- 🔭 I’m currently working on **CNNs in MATLAB**
+- 🔭 I’m currently working on **making models in Blender**
 
 - 🌱 I’m currently learning **Unreal Engine 5, Deeplearning in MATLAB(very noob rn), and C++!**
 
