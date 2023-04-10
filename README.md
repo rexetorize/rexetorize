@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **making models in Blender**
 
-- 🌱 I’m currently learning **Unreal Engine 5, Deeplearning in MATLAB(very noob rn), and C++!**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Dev. projects!**
 
