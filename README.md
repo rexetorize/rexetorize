@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexetorize&label=Profile%20views&color=0e75b6&style=flat" alt="rexetorize" /> </p>
 
-- 🔭 I’m currently working on **my college**
-
-
 - 👯 I’m looking to collaborate on **Full Stack Web Dev. projects!**
 
 - 🤝 I’m looking for help with **Full Stack Web Dev. projects.**
@@ -15,6 +12,8 @@
 - 💬 Ask me about **ReactJs, NodeJs, JavaScript, Java.**
 
 - 📫 How to reach me **dasabhirup1956@gmail.com**
+  
+- 🔭 I'm a language **enthusiast**, I love studying about languages as a hobby.
 
 - ⚡ Fun fact **I started my coding journey watching sentdex, looking at those cool AI progs. doing cool stuff. Then I don't know how I moved to web dev and became a full stack dev. and now here I am learning Environment design lol.**
 
