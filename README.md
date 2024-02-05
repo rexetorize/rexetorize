@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhirup</h1>
-<h3 align="center">A Full Stack Web Developer and an Environment Artist in UE5 by hobby!</h3>
+<h3 align="center">A Full Stack Web Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexetorize&label=Profile%20views&color=0e75b6&style=flat" alt="rexetorize" /> </p>
 
-- 🔭 I’m currently working on **making models in Blender**
+- 🔭 I’m currently working on **my college**
 
 
 - 👯 I’m looking to collaborate on **Full Stack Web Dev. projects!**
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rexetorize](https://github.com/rexetorize)
 
-- 💬 Ask me about **ReactJs, NodeJs, JavaScript, C/C++ and DSA.**
+- 💬 Ask me about **ReactJs, NodeJs, JavaScript, Java.**
 
 - 📫 How to reach me **dasabhirup1956@gmail.com**
 
